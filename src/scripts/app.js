@@ -5,7 +5,7 @@ import init from './init'
 
 
 const app = function() {
-  document.querySelector('.container').innerHTML = `<h1>microSatan</h1>`
+  document.querySelector('.container').innerHTML = `<h1>MicroSatan:</h1><p>The Website</p>`
 }
 
 // x..x..x..x..x..x..x..x..x..x..x..x..x..x..x..x..
